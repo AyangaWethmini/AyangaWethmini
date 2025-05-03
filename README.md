@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayanga</h1>
 <h3 align="center">I like to learn new things</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayangawethmini" alt="ayangawethmini" /></a> </p>
+
 
 - 🔭 I’m currently working on [TaskLink](https://github.com/AyangaWethmini/TaskLink)
 
