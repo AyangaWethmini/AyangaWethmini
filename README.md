@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently a **CS undergraduate**
 
-- 📝 I regularly write articles on [https://medium.com/@ayu_mini](https://medium.com/@ayu_mini)
+- 📝 I sometimes write articles on [https://medium.com/@ayu_mini](https://medium.com/@ayu_mini)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
