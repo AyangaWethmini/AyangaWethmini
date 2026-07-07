@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayanga</h1>
-<h3 align="center">I am a Computer Science Undergraduate</h3>
+<h3 align="center">I am a Computer Science Graduate and I do Mobile Development</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
